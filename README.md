@@ -2,7 +2,7 @@
 
 [16,21,11,8,12,22] -> Merge Sort
 
-**Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
+**1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
 
 |Steps|Divided & Merged Schema|
 |:--:|:--:|
@@ -14,6 +14,6 @@
 | Merge-2                                                 |[11,16,21] - [8,12,22]|
 | Merge-3                                                 |[8,11,12,16,21,22]|
 
-**Big-O gösterimini yazınız.**
+**2. Big-O gösterimini yazınız.**
 
  O(nlogn)
