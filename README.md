@@ -1,5 +1,7 @@
 # MERGE SORT PROJECT
 
+Patika Dev Profile: https://app.patika.dev/muratgulcan
+
 [16,21,11,8,12,22] -> Merge Sort
 
 **1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
